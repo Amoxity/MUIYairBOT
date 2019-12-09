@@ -1,2 +1,8 @@
-# MUIYairBOT
-All the source of MUI Yair BOT - A Multipurpise bot just for fun
+# Welcome to MUI Yair Bot Source Code
+
+Here you can find the source code of the bot
+**But ples dont ruin it or copy it**
+
+# It took so much time
+
+[Here the invite link]()

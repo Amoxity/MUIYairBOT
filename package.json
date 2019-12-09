@@ -1,0 +1,44 @@
+{
+  "name": "yairbot",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.2.3",
+    "fs": "^0.0.2",
+    "ms": "^2.1.2",
+    "db": "^1.1.1",
+    "quick.db": "^7.0.0-b22",
+    "glob": "^7.1.5",
+    "chalk": "^2.4.2",
+    "node-fetch": "^2.6.0",
+    "snekfetch": "^4.0.4",
+    "random-puppy": "^1.1.0",
+    "math": "^0.0.3",
+    "mathjs": "^6.2.5",
+    "nekos.life": "^2.0.4",
+    "ytdl-core": "^1.0.3",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "moment": "^2.24.0",
+    "os": "^0.1.1",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/mui-yairbot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
